@@ -57,3 +57,7 @@ The Retail Sales Performance Dashboard is an interactive business analytics proj
 This project demonstrates how Microsoft Excel can transform raw retail sales data into an interactive dashboard for business performance analysis and better decision-making.
 
 **Project Category:** Data Analytics | Business Intelligence | Excel Dashboard
+
+## 📸 Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard_Preview.png)
