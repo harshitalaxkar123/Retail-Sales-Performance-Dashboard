@@ -60,4 +60,4 @@ This project demonstrates how Microsoft Excel can transform raw retail sales dat
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard_Preview.png)
+![Retail Sales Dashboard](./Dashboard_Preview.png)
